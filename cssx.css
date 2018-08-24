@@ -1,0 +1,35 @@
+body{
+	text-align: center;
+	font-size: 190%;
+	font-family: "Comic Sans MS";
+}
+input{
+	text-align: center;
+	color:#006400;
+	border-color: white;
+	margin: 1%;
+	padding: 1%;
+	font-size: 180%;
+}
+#igual{
+	font-size: 50%; 
+	padding: 1%;
+	padding-left:3%;
+	padding-right:3%; 
+
+	background-color: #228B22;
+	color: white;
+}
+h3{
+	background-color: #228B22;
+	color: white;
+}
+h1{
+	color:#006400;
+}
+.imgsla{
+	width:60px;
+}
+p{
+	font-size: 10px;
+}
